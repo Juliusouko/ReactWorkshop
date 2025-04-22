@@ -1,0 +1,11 @@
+most react apps are made of components. a component is a piece of the UI that has its own logic and appearance. a component can be as small as a button, or as large as an entire page.
+
+react components are javascript functions that return markup.
+
+There are are two ways to create a React App: 
+  - We can use, Create react App (CRA)
+  - Vite
+
+    -To create an app using vite use, npm create vite@latest or you can npm create vite@4.1.0
+
+    - After creating the project cd to the project folder, next run npm install, finally run npm run dev
